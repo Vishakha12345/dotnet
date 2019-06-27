@@ -1,0 +1,15 @@
+﻿@using BOL
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@{ 
+    string name = "IACSD";
+    List<Customer> customers = ViewData["customers"] as List<Customer>;
+    foreach (Customer cst in customers)
+    {
+        <p><i><b><u>@cst.Name</u></b></i>  </p>
+    }
+}

@@ -1,0 +1,13 @@
+D:\test\CoreFeatures\CustomerSupportApp\bin\Debug\CustomerSupportApp.exe.config
+D:\test\CoreFeatures\CustomerSupportApp\bin\Debug\CustomerSupportApp.exe
+D:\test\CoreFeatures\CustomerSupportApp\bin\Debug\CustomerSupportApp.pdb
+D:\test\CoreFeatures\CustomerSupportApp\bin\Debug\CRM.dll
+D:\test\CoreFeatures\CustomerSupportApp\bin\Debug\CRM.pdb
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.csprojAssemblyReference.cache
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.Form1.resources
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.Properties.Resources.resources
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.csproj.GenerateResource.cache
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.csproj.CoreCompileInputs.cache
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.csproj.CopyComplete
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.exe
+D:\test\CoreFeatures\CustomerSupportApp\obj\Debug\CustomerSupportApp.pdb

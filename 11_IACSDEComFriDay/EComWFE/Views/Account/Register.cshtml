@@ -1,0 +1,21 @@
+﻿<h3>Please Register</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <p>
+        <label>First Name:</label>
+        <input name="firstname" />
+    </p>
+
+    <p>
+        <label>Last Name:</label>
+        <input name="lastname" />
+    </p>
+    <p>
+        <label>Email:</label>
+        <input name="email" type="email" />
+    </p>
+
+    <input type="submit" value="Log in" />
+}

@@ -1,0 +1,6 @@
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.csproj.CoreCompileInputs.cache
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe.config
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.exe
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\bin\Debug\AsyncCallbackDelegate.pdb
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.exe
+D:\test\Day_13\AsyncSolution\AsyncCallbackDelegate\obj\Debug\AsyncCallbackDelegate.pdb

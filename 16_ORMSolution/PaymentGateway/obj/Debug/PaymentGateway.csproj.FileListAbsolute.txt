@@ -1,0 +1,7 @@
+D:\test\Day_16\ORMSolution\PaymentGateway\bin\PaymentGateway.dll.config
+D:\test\Day_16\ORMSolution\PaymentGateway\bin\PaymentGateway.dll
+D:\test\Day_16\ORMSolution\PaymentGateway\bin\PaymentGateway.pdb
+D:\test\Day_16\ORMSolution\PaymentGateway\obj\Debug\PaymentGateway.csprojAssemblyReference.cache
+D:\test\Day_16\ORMSolution\PaymentGateway\obj\Debug\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\test\Day_16\ORMSolution\PaymentGateway\obj\Debug\PaymentGateway.dll
+D:\test\Day_16\ORMSolution\PaymentGateway\obj\Debug\PaymentGateway.pdb

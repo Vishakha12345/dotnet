@@ -1,0 +1,7 @@
+D:\test\Day_17\ModernSolution\HRService\bin\HRService.dll.config
+D:\test\Day_17\ModernSolution\HRService\bin\HRService.dll
+D:\test\Day_17\ModernSolution\HRService\bin\HRService.pdb
+D:\test\Day_17\ModernSolution\HRService\obj\Debug\HRService.csproj.CoreCompileInputs.cache
+D:\test\Day_17\ModernSolution\HRService\obj\Debug\HRService.dll
+D:\test\Day_17\ModernSolution\HRService\obj\Debug\HRService.pdb
+D:\test\Day_17\ModernSolution\HRService\obj\Debug\HRService.csprojAssemblyReference.cache

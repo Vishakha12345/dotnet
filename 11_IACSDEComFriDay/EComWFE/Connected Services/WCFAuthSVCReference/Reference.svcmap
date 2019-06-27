@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2d02e953-0978-4dfb-b24f-6ccab8120750" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50292/AuthService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AuthService.xsd" MetadataType="Schema" ID="e99e434c-206f-4513-98da-994bc5649af5" SourceId="1" SourceUrl="http://localhost:50292/AuthService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AuthService.disco" MetadataType="Disco" ID="fe596ffe-adc0-4ec9-bb9f-c349f3dea6aa" SourceId="1" SourceUrl="http://localhost:50292/AuthService.svc?disco" />
+    <MetadataFile FileName="AuthService1.xsd" MetadataType="Schema" ID="584c25a0-86d8-4113-beb8-943c80d81dc2" SourceId="1" SourceUrl="http://localhost:50292/AuthService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AuthService2.xsd" MetadataType="Schema" ID="55167fcb-dc34-4444-a5f8-e2a934d2b84d" SourceId="1" SourceUrl="http://localhost:50292/AuthService.svc?xsd=xsd1" />
+    <MetadataFile FileName="AuthService.wsdl" MetadataType="Wsdl" ID="00bc31d1-7231-4444-8de8-e51e8642f873" SourceId="1" SourceUrl="http://localhost:50292/AuthService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

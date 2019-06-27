@@ -1,0 +1,6 @@
+D:\test\Day_13\AsyncSolution\Demo_Timer\bin\Debug\Demo_Timer.exe.config
+D:\test\Day_13\AsyncSolution\Demo_Timer\bin\Debug\Demo_Timer.exe
+D:\test\Day_13\AsyncSolution\Demo_Timer\bin\Debug\Demo_Timer.pdb
+D:\test\Day_13\AsyncSolution\Demo_Timer\obj\Debug\Demo_Timer.csproj.CoreCompileInputs.cache
+D:\test\Day_13\AsyncSolution\Demo_Timer\obj\Debug\Demo_Timer.exe
+D:\test\Day_13\AsyncSolution\Demo_Timer\obj\Debug\Demo_Timer.pdb

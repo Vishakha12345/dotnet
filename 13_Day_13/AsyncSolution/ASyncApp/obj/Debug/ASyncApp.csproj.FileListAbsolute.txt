@@ -1,0 +1,6 @@
+D:\test\Day_13\AsyncSolution\ASyncApp\bin\Debug\ASyncApp.exe.config
+D:\test\Day_13\AsyncSolution\ASyncApp\bin\Debug\ASyncApp.exe
+D:\test\Day_13\AsyncSolution\ASyncApp\bin\Debug\ASyncApp.pdb
+D:\test\Day_13\AsyncSolution\ASyncApp\obj\Debug\ASyncApp.csproj.CoreCompileInputs.cache
+D:\test\Day_13\AsyncSolution\ASyncApp\obj\Debug\ASyncApp.exe
+D:\test\Day_13\AsyncSolution\ASyncApp\obj\Debug\ASyncApp.pdb

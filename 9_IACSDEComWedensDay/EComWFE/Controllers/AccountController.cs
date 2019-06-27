@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using System.Web.Security;
+
+using BLL;
+
+
+namespace EComWFE.Controllers
+{
+    public class AccountController : Controller
+    {
+        //http://localhost:3434/account/login
+        // GET: Account
+       //
+       //Perform Action for incomming GET request
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+       
+        public ActionResult Login(string userName, string password,string returnUrl)
+        {
+            //if(userName =="ravi" && password == "seed")
+            if(AccountManager.Validate(userName, password))
+            { 
+                // return   this.RedirectToAction("index", "products");
+                FormsAuthentication.SetAuthCookie(userName, false);
+                return Redirect(returnUrl ?? Url.Action("Index", "Home"));
+            }
+            else
+            {
+                return View();
+            }        
+        }
+
+
+        public ActionResult Register()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public  ActionResult Register(string firstname, string lastname, string email)
+        {
+            return View();
+        }
+    }
+}

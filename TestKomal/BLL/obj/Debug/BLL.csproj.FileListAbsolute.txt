@@ -1,0 +1,11 @@
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\BLL.dll
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\BLL.pdb
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\DAL.dll
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\DAL.pdb
+C:\Users\dac\source\repos\Test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\dac\source\repos\Test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\Test\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\dac\source\repos\Test\BLL\obj\Debug\BLL.dll
+C:\Users\dac\source\repos\Test\BLL\obj\Debug\BLL.pdb
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\BOL.dll
+C:\Users\dac\source\repos\Test\BLL\bin\Debug\BOL.pdb

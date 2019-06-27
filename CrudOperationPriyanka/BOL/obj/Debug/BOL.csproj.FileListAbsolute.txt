@@ -1,0 +1,11 @@
+E:\dotNet\CrudOperation\BOL\bin\Debug\BOL.dll
+E:\dotNet\CrudOperation\BOL\bin\Debug\BOL.pdb
+E:\dotNet\CrudOperation\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+E:\dotNet\CrudOperation\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\dotNet\CrudOperation\BOL\obj\Debug\BOL.dll
+E:\dotNet\CrudOperation\BOL\obj\Debug\BOL.pdb
+C:\Users\user98\Desktop\dotNetPractice\CrudOperationPriyanka\BOL\bin\Debug\BOL.dll
+C:\Users\user98\Desktop\dotNetPractice\CrudOperationPriyanka\BOL\bin\Debug\BOL.pdb
+C:\Users\user98\Desktop\dotNetPractice\CrudOperationPriyanka\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\user98\Desktop\dotNetPractice\CrudOperationPriyanka\BOL\obj\Debug\BOL.dll
+C:\Users\user98\Desktop\dotNetPractice\CrudOperationPriyanka\BOL\obj\Debug\BOL.pdb

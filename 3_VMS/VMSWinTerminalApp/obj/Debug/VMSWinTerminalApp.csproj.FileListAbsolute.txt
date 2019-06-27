@@ -1,0 +1,15 @@
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.Form1.resources
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.Properties.Resources.resources
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.csproj.GenerateResource.cache
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\VMSWinTerminalApp.exe.config
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\VMSWinTerminalApp.exe
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\VMSWinTerminalApp.pdb
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\DAL.dll
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\bin\Debug\DAL.pdb
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.exe
+C:\Users\tfladmin\source\repos\VMS\VMSWinTerminalApp\obj\Debug\VMSWinTerminalApp.pdb

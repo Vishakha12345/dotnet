@@ -1,0 +1,12 @@
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.pdb
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.pdb
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.exe.config
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.exe
+C:\Users\tfladmin\source\repos\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.exe
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.exe.config
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.exe
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\bin\Debug\CSharpAdvApp.pdb
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.csproj.CoreCompileInputs.cache
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.exe
+D:\test\Day_14\AdvancedCSharpSolution\CSharpAdvApp\obj\Debug\CSharpAdvApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\Test.exe.config
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\Test.exe
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\Test.pdb
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\BLL.dll
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\DAL.dll
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\BLL.pdb
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\VMS\Test\bin\Debug\DAL.pdb
+C:\Users\tfladmin\source\repos\VMS\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\VMS\Test\obj\Debug\Test.exe
+C:\Users\tfladmin\source\repos\VMS\Test\obj\Debug\Test.pdb

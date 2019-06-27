@@ -1,0 +1,24 @@
+﻿@using BOL;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2> Product Catalog</h2>
+
+@{
+    List<Product> products = this.ViewData["products"] as List<Product>;
+
+}
+
+
+<ol>
+    @{
+        foreach (Product p in products)
+        {
+            <li> @Html.ActionLink(p.Title, "details", new { id = p.ID })</li>
+
+
+            }
+        }
+
+    </ol>

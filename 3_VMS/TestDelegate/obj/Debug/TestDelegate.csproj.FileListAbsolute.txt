@@ -1,0 +1,10 @@
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\obj\Debug\TestDelegate.csprojAssemblyReference.cache
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\obj\Debug\TestDelegate.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\bin\Debug\TestDelegate.exe.config
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\bin\Debug\TestDelegate.exe
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\bin\Debug\TestDelegate.pdb
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\bin\Debug\MathLib.dll
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\bin\Debug\MathLib.pdb
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\obj\Debug\TestDelegate.csproj.CopyComplete
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\obj\Debug\TestDelegate.exe
+C:\Users\tfladmin\source\repos\VMS\TestDelegate\obj\Debug\TestDelegate.pdb

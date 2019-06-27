@@ -1,0 +1,10 @@
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\bin\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\bin\Debug\BOL.pdb
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.dll
+C:\Users\tfladmin\source\repos\IACSDECom\BOL\obj\Debug\BOL.pdb
+D:\test\IACSDEComWedensDay\IACSDEComWedensDay\BOL\bin\Debug\BOL.dll
+D:\test\IACSDEComWedensDay\IACSDEComWedensDay\BOL\bin\Debug\BOL.pdb
+D:\test\IACSDEComWedensDay\IACSDEComWedensDay\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\test\IACSDEComWedensDay\IACSDEComWedensDay\BOL\obj\Debug\BOL.dll
+D:\test\IACSDEComWedensDay\IACSDEComWedensDay\BOL\obj\Debug\BOL.pdb

@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "update";
+}
+  @using (Html.BeginForm())
+
+{
+   @Html.ValidationSummary()
+
+    <h2>update</h2>
+
+
+
+<table>
+    <tr>
+        <td><input type="text" name="id"></td>
+
+    </tr>
+    <tr><td><input type="city" name="city"></td></tr>
+
+
+
+    <tr>
+        <td><input type="submit" name="button" value="update" /></td>
+    </tr>
+</table>
+
+}

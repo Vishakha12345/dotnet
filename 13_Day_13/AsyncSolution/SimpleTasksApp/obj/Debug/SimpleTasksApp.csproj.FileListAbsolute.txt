@@ -1,0 +1,6 @@
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\bin\Debug\SimpleTasksApp.exe.config
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\bin\Debug\SimpleTasksApp.exe
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\bin\Debug\SimpleTasksApp.pdb
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\obj\Debug\SimpleTasksApp.csproj.CoreCompileInputs.cache
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\obj\Debug\SimpleTasksApp.exe
+D:\test\Day_13\AsyncSolution\SimpleTasksApp\obj\Debug\SimpleTasksApp.pdb

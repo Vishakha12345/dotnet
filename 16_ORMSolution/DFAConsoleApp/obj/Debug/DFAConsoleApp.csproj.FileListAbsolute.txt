@@ -1,0 +1,14 @@
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\ContentDB.mdf
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\ContentDB_log.ldf
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\DFAConsoleApp.exe.config
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\DFAConsoleApp.exe
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\DFAConsoleApp.pdb
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\EntityFramework.dll
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\EntityFramework.xml
+D:\test\Day_16\ORMSolution\DFAConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\Day_16\ORMSolution\DFAConsoleApp\obj\Debug\DFAConsoleApp.csproj.CoreCompileInputs.cache
+D:\test\Day_16\ORMSolution\DFAConsoleApp\obj\Debug\DFAConsoleApp.csproj.CopyComplete
+D:\test\Day_16\ORMSolution\DFAConsoleApp\obj\Debug\DFAConsoleApp.exe
+D:\test\Day_16\ORMSolution\DFAConsoleApp\obj\Debug\DFAConsoleApp.pdb
+D:\test\Day_16\ORMSolution\DFAConsoleApp\obj\Debug\DFAConsoleApp.csprojAssemblyReference.cache

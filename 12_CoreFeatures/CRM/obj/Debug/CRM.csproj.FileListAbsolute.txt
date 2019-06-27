@@ -1,0 +1,5 @@
+D:\test\CoreFeatures\CRM\bin\Debug\CRM.dll
+D:\test\CoreFeatures\CRM\bin\Debug\CRM.pdb
+D:\test\CoreFeatures\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\test\CoreFeatures\CRM\obj\Debug\CRM.dll
+D:\test\CoreFeatures\CRM\obj\Debug\CRM.pdb

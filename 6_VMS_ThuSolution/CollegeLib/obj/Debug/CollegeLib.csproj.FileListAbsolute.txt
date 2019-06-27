@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\CollegeLib\bin\Debug\CollegeLib.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\CollegeLib\bin\Debug\CollegeLib.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\CollegeLib\obj\Debug\CollegeLib.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\CollegeLib\obj\Debug\CollegeLib.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\CollegeLib\obj\Debug\CollegeLib.pdb

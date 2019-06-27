@@ -1,0 +1,14 @@
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\obj\Debug\WCFAuthApp.csprojAssemblyReference.cache
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\obj\Debug\WCFAuthApp.csproj.CoreCompileInputs.cache
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\WCFAuthApp.dll.config
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\WCFAuthApp.dll
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\WCFAuthApp.pdb
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\BLL.dll
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\BOL.dll
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\DAL.dll
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\BLL.pdb
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\BOL.pdb
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\bin\DAL.pdb
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\obj\Debug\WCFAuthApp.csproj.CopyComplete
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\obj\Debug\WCFAuthApp.dll
+D:\test\IACSDEComThursDay\IACSDEComThursDay\WCFAuthApp\obj\Debug\WCFAuthApp.pdb

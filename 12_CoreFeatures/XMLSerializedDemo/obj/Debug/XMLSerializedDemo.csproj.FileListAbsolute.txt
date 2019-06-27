@@ -1,0 +1,7 @@
+D:\test\CoreFeatures\XMLSerializedDemo\bin\Debug\XMLSerializedDemo.exe.config
+D:\test\CoreFeatures\XMLSerializedDemo\bin\Debug\XMLSerializedDemo.exe
+D:\test\CoreFeatures\XMLSerializedDemo\bin\Debug\XMLSerializedDemo.pdb
+D:\test\CoreFeatures\XMLSerializedDemo\obj\Debug\XMLSerializedDemo.csproj.CoreCompileInputs.cache
+D:\test\CoreFeatures\XMLSerializedDemo\obj\Debug\XMLSerializedDemo.exe
+D:\test\CoreFeatures\XMLSerializedDemo\obj\Debug\XMLSerializedDemo.pdb
+D:\test\CoreFeatures\XMLSerializedDemo\obj\Debug\XMLSerializedDemo.csprojAssemblyReference.cache

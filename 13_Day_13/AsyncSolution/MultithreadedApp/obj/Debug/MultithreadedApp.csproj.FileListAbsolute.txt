@@ -1,0 +1,6 @@
+D:\test\Day_13\AsyncSolution\MultithreadedApp\bin\Debug\MultithreadedApp.exe.config
+D:\test\Day_13\AsyncSolution\MultithreadedApp\bin\Debug\MultithreadedApp.exe
+D:\test\Day_13\AsyncSolution\MultithreadedApp\bin\Debug\MultithreadedApp.pdb
+D:\test\Day_13\AsyncSolution\MultithreadedApp\obj\Debug\MultithreadedApp.csproj.CoreCompileInputs.cache
+D:\test\Day_13\AsyncSolution\MultithreadedApp\obj\Debug\MultithreadedApp.exe
+D:\test\Day_13\AsyncSolution\MultithreadedApp\obj\Debug\MultithreadedApp.pdb

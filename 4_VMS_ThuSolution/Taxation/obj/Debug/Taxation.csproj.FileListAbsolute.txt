@@ -1,0 +1,5 @@
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Taxation\bin\Debug\Taxation.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Taxation\bin\Debug\Taxation.pdb
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Taxation\obj\Debug\Taxation.csproj.CoreCompileInputs.cache
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Taxation\obj\Debug\Taxation.dll
+C:\Users\tfladmin\source\repos\VMS_ThuSolution\Taxation\obj\Debug\Taxation.pdb

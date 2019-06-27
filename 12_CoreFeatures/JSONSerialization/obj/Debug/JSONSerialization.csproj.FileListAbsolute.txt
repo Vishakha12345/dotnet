@@ -1,0 +1,9 @@
+D:\test\CoreFeatures\JSONSerialization\bin\Debug\JSONSerialization.exe.config
+D:\test\CoreFeatures\JSONSerialization\bin\Debug\JSONSerialization.exe
+D:\test\CoreFeatures\JSONSerialization\bin\Debug\JSONSerialization.pdb
+D:\test\CoreFeatures\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+D:\test\CoreFeatures\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
+D:\test\CoreFeatures\JSONSerialization\obj\Debug\JSONSerialization.csproj.CoreCompileInputs.cache
+D:\test\CoreFeatures\JSONSerialization\obj\Debug\JSONSerialization.csproj.CopyComplete
+D:\test\CoreFeatures\JSONSerialization\obj\Debug\JSONSerialization.exe
+D:\test\CoreFeatures\JSONSerialization\obj\Debug\JSONSerialization.pdb

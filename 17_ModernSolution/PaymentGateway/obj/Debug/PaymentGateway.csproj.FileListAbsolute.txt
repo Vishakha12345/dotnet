@@ -1,0 +1,13 @@
+D:\test\Day_15\WCFSolution\PaymentGateway\bin\PaymentGateway.dll.config
+D:\test\Day_15\WCFSolution\PaymentGateway\bin\PaymentGateway.dll
+D:\test\Day_15\WCFSolution\PaymentGateway\bin\PaymentGateway.pdb
+D:\test\Day_15\WCFSolution\PaymentGateway\obj\Debug\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\test\Day_15\WCFSolution\PaymentGateway\obj\Debug\PaymentGateway.dll
+D:\test\Day_15\WCFSolution\PaymentGateway\obj\Debug\PaymentGateway.pdb
+D:\test\Day_17\ModernSolution\PaymentGateway\bin\PaymentGateway.dll.config
+D:\test\Day_17\ModernSolution\PaymentGateway\bin\PaymentGateway.dll
+D:\test\Day_17\ModernSolution\PaymentGateway\bin\PaymentGateway.pdb
+D:\test\Day_17\ModernSolution\PaymentGateway\obj\Debug\PaymentGateway.csprojAssemblyReference.cache
+D:\test\Day_17\ModernSolution\PaymentGateway\obj\Debug\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\test\Day_17\ModernSolution\PaymentGateway\obj\Debug\PaymentGateway.dll
+D:\test\Day_17\ModernSolution\PaymentGateway\obj\Debug\PaymentGateway.pdb
